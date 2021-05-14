@@ -45,12 +45,12 @@ List of Data Warehouse KPI's:
 This project's Dimensional Model consists of (x) Facts and (y) Dimensions
 
 Use correct file path here to show picture of dimensional model...
-!/Users/ellishamabuchi/Desktop/CIS 9440/Final Project/9440/img/dimensional_model.jpg
+![Alt text](/img/dimensional_model.JPG)
 
 This project's Kimball Bus Matrix:
 
 Use correct file path here to show picture of Kimball Bus Matrix...
-!img/kimball_bus_matrix.jpg
+![Alt text](/img/kimball_bus_matrix.JPG)
 
 ### Business Intelligence Design and Development
 
@@ -64,12 +64,12 @@ List of Visualizations for each KPI:
 BI Application Wireframe design:
 
 Use correct file path here to show picture of Wireframe design...
-!/img/wireframe_design.jpg
+![Alt text](/img/wireframe_design.JPG)
 
 Picture of final Dashboard:
 
 Use correct file path here to show picture of Dashboard...
-!/img/Dashboard.jpg
+![Alt text](/img/Dashboard.JPG)
 
 ### Deployment
 

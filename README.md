@@ -27,8 +27,8 @@ The NYPD can better allocate police resources to minimize crimes and increase th
 
 Data Sources:
 1. [Hate Crimes](https://data.cityofnewyork.us/Public-Safety/NYPD-Hate-Crimes/bqiq-cu78/data)
-2. NYPD Calls for Service: https://data.cityofnewyork.us/Public-Safety/NYPD-Calls-for-Service/n2zq-pubd
-3. NYPD Arrests: https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
+2. [NYPD Calls for Service](https://data.cityofnewyork.us/Public-Safety/NYPD-Calls-for-Service/n2zq-pubd)
+3. [NYPD Arrests](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc)
 
 ### Business Requirements Definition
 

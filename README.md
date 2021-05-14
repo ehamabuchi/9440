@@ -70,8 +70,8 @@ Picture of final Dashboard:
 ### Deployment
 
 The project was deployed on Tableau Public:
-Hate Crimes: https://public.tableau.com/profile/jason.chong4422#!/vizhome/Dashboard1_16204413917470/HateCrimes
-Borough/Precinct Data: https://public.tableau.com/profile/jason.chong4422#!/vizhome/FinalDashboard_16207919631870/BoroughPrecinctData?publish=yes
-Arrests: https://public.tableau.com/profile/jason.chong4422#!/vizhome/FinalDashboard_16207919631870/Arrests2020?publish=yes
+1. [Hate Crimes](https://public.tableau.com/profile/jason.chong4422#!/vizhome/Dashboard1_16204413917470/HateCrimes)
+2. [Borough/Precinct Data](https://public.tableau.com/profile/jason.chong4422#!/vizhome/FinalDashboard_16207919631870/BoroughPrecinctData?publish=yes)
+3. [Arrests](https://public.tableau.com/profile/jason.chong4422#!/vizhome/FinalDashboard_16207919631870/Arrests2020?publish=yes)
 
  

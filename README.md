@@ -1,4 +1,4 @@
-# NYPD Placement Strategization
+# Strategizing NYPD Placement
 - author(s): Jason Chong, Ellis Hamabuchi
 - date created: 05/14/2021
 - class: CIS 9440

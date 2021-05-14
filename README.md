@@ -50,7 +50,7 @@ Use correct file path here to show picture of dimensional model...
 This project's Kimball Bus Matrix:
 
 Use correct file path here to show picture of Kimball Bus Matrix...
-!/Users/ellishamabuchi/Desktop/CIS 9440/Final Project/9440/img/kimball_bus_matrix.jpg
+!img/kimball_bus_matrix.jpg
 
 ### Business Intelligence Design and Development
 
@@ -64,12 +64,12 @@ List of Visualizations for each KPI:
 BI Application Wireframe design:
 
 Use correct file path here to show picture of Wireframe design...
-!/Users/ellishamabuchi/Desktop/CIS 9440/Final Project/9440/img/wireframe_design.jpg
+!/img/wireframe_design.jpg
 
 Picture of final Dashboard:
 
 Use correct file path here to show picture of Dashboard...
-!/Users/ellishamabuchi/Desktop/CIS 9440/Final Project/9440/img/Dashboard.jpg
+!/img/Dashboard.jpg
 
 ### Deployment
 
